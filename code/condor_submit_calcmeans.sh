@@ -4,7 +4,7 @@ set -e
 set -u
 
 executable=calcmeans.py
-initialdir=/home/adina/MastersThesis/Alles/code
+initialdir=/home/adina/multimatch_forrest/code
 log_dir=${initialdir}/log_means
 
 paths=$(find ../output/ -mindepth 1 -maxdepth 1 | sort)
