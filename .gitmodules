@@ -1,3 +1,6 @@
 [submodule "sourcedata/eyetrack"]
 	path = sourcedata/eyetrack
 	url = /home/data/psyinf/scratch/studyforrest-data-eyemovementlabels/
+[submodule "sourcedata/studyforrest-data-annotations"]
+	path = sourcedata/studyforrest-data-annotations
+	url = https://github.com/psychoinformatics-de/studyforrest-data-annotations.git
