@@ -1,3 +1,6 @@
 [submodule "sourcedata/studyforrest-data-annotations"]
 	path = sourcedata/studyforrest-data-annotations
 	url = https://github.com/psychoinformatics-de/studyforrest-data-annotations.git
+[submodule "sourcedata/studyforrest-data-eyemovementlabels"]
+	path = sourcedata/studyforrest-data-eyemovementlabels
+	url = https://github.com/psychoinformatics-de/studyforrest-data-eyemovementlabels.git
