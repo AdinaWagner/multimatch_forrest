@@ -4,3 +4,6 @@
 [submodule "sourcedata/studyforrest-data-eyemovementlabels"]
 	path = sourcedata/studyforrest-data-eyemovementlabels
 	url = https://github.com/psychoinformatics-de/studyforrest-data-eyemovementlabels.git
+[submodule "multimatch_gaze"]
+	path = multimatch_gaze
+	url = https://github.com/adswa/multimatch_gaze.git
