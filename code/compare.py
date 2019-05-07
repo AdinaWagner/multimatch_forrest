@@ -6,9 +6,12 @@ import itertools
 from glob import glob
 
 subs = ['sub-01', 'sub-02', 'sub-03', 'sub-04', 'sub-05', 'sub-06', 'sub-09', 'sub-10', 'sub-14',
-        'sub-15', 'sub-16', 'sub-17', 'sub-18', 'sub-19', 'sub-20', 'sub-22', 'sub-23', 'sub-24',
-        'sub-25', 'sub-26', 'sub-27', 'sub-28', 'sub-29', 'sub-30', 'sub-31', 'sub-32', 'sub-33',
-        'sub-34', 'sub-35', 'sub-36']
+        'sub-15', 'sub-16', 'sub-17', 'sub-18', 'sub-19', 'sub-20', 
+        # only MRI subjects, below is lab
+        #'sub-22', 'sub-23', 'sub-24',
+        #'sub-25', 'sub-26', 'sub-27', 'sub-28', 'sub-29', 'sub-30', 'sub-31', 'sub-32', 'sub-33',
+        #'sub-34', 'sub-35', 'sub-36'
+        ]
 runs = ['run-1', 'run-2', 'run-3', 'run-4', 'run-5', 'run-6', 'run-7', 'run-8']
 for run in runs:
     # get the scanpath dirs per run
