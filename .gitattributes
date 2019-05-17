@@ -1,3 +1,4 @@
 * annex.backend=MD5E
 README.md annex.largefiles=nothing
 CHANGELOG.md annex.largefiles=nothing
+allruns.tsv annex.largefiles=nothing
